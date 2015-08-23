@@ -37,6 +37,7 @@ makeCacheMatrix <- function(x = matrix()) {
   )
 }
 
+
 ## cacheSolve calculates the inverse of the special "matrix" created by 
 ## makeCacheMatrix, checking cached result if it is available and using it.
 
